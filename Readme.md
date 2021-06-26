@@ -1,5 +1,6 @@
 # Face Recognition using face embeddings
-### Clone the repository
+### Clone the repository from 
+https://github.com/abdullah0307/Face-Recognition-using-Face-Embeddings
 
 ### Requirement of python interpreter
 * Python 3.6
