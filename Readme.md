@@ -1,4 +1,18 @@
 # Face Recognition using face embeddings
+
+### Clone the repository from 
+https://github.com/abdullah0307/Face-Recognition-using-Face-Embeddings
+
+## Screen Shots
+####Home screen
+![images/1.png](images/1.png)
+####Add new person face 
+![images/2.png](images/2.png)
+#### Also the see the last tracked person in the list
+![images/3.png](images/3.png)
+#### Track the the person face over a video
+![images/4.png](images/4.png)
+
 ### Clone the repository from 
 https://github.com/abdullah0307/Face-Recognition-using-Face-Embeddings
 
